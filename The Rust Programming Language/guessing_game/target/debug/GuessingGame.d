@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/guessing_game/target/debug/GuessingGame: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/guessing_game/src/main.rs

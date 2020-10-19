@@ -32,14 +32,15 @@ or install it using Homebrew:
 
 ### How to use Cargo
 
-- To build a project: ``` cargo build  ``` (Add --release flag when the project finishes to compile it with optimizations)
-- To build and run a project (one step operation): ``` cargo run  ```
-- To build a project to cech for errors without producing a binary: ``` cargo check  ```
+- To build a project: ```cargo build``` (Add --release flag when the project finishes to compile it with optimizations)
+- To build and run a project (one step operation): ```cargo run```
+- To build a project to cech for errors without producing a binary: ```cargo check```
+- To update crates ```cargo update```
 
 ### Tasks Done from "The Rust Programming Language":
 
 - [x] Hello World;
 - [x] Hello World Cargo;
-- [ ] Guessing Game;
+- [x] Guessing Game;
 
 by João Santos :ghost: 
