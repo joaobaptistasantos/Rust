@@ -1,6 +1,7 @@
 # Rust
 
 Rust Version - 1.47.0
+Cargo Version - 1.47.0
 
 This repository contains:
 
@@ -29,10 +30,16 @@ or install it using Homebrew:
 
 ``` brew install rust  ```
 
+### How to use Cargo
+
+- To build a project: ``` cargo build  ``` (Add --release flag when the project finishes to compile it with optimizations)
+- To build and run a project (one step operation): ``` cargo run  ```
+- To build a project to cech for errors without producing a binary: ``` cargo check  ```
+
 ### Tasks Done from "The Rust Programming Language":
 
-- [ ] Hello World;
-- [ ] Hello World Cargo;
-- [ ] Chessing Game;
+- [x] Hello World;
+- [x] Hello World Cargo;
+- [ ] Guessing Game;
 
 by João Santos :ghost: 
