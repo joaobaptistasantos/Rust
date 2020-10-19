@@ -13,9 +13,9 @@ Rust is a programming language that wants to avoid the "old pitfalls and providi
 
 ### Rust Developer Tools
 
-- Cargo - dependency manager and build tool;
-- Rusfmt - ensures a consistent coding style across developers;
-- Rust Language Server - Integrated Development Environment (IDE) integration for code completion and inline error messages.
+- **Cargo** - dependency manager and build tool;
+- **Rusfmt** - ensures a consistent coding style across developers;
+- **Rust Language Server** - Integrated Development Environment (IDE) integration for code completion and inline error messages.
 
 ### Rust Installation
 
