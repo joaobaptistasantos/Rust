@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 5/structs/target/debug/structs: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 5/structs/src/main.rs

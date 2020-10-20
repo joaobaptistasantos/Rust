@@ -44,5 +44,6 @@ or install it using Homebrew:
 - [x] Guessing Game;
 - [x] Common Programming Concepts;
 - [x] Understanding Ownership;
+- [x] Using Structs to Structure Related Data;
 
 by João Santos :ghost: 
