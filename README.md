@@ -45,5 +45,6 @@ or install it using Homebrew:
 - [x] Common Programming Concepts;
 - [x] Understanding Ownership;
 - [x] Using Structs to Structure Related Data;
+- [x] Enums and Pattern Matching;
 
 by João Santos :ghost: 
