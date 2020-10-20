@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/variables/target/debug/variables: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/variables/src/main.rs

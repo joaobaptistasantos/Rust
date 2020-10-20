@@ -42,5 +42,6 @@ or install it using Homebrew:
 - [x] Hello World;
 - [x] Hello World Cargo;
 - [x] Guessing Game;
+- [ ] Common Programming Concepts;
 
 by João Santos :ghost: 
