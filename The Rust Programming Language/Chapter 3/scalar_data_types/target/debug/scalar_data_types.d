@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/scalar_data_types/target/debug/scalar_data_types: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/scalar_data_types/src/main.rs

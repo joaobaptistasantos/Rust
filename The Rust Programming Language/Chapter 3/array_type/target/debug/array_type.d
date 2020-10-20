@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/array_type/target/debug/array_type: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/array_type/src/main.rs

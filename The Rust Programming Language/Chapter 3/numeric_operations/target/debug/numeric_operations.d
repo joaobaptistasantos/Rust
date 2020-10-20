@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/numeric_operations/target/debug/numeric_operations: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 2/numeric_operations/src/main.rs
