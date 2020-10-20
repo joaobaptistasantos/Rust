@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 4/slice_type/target/debug/slice_type: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 4/slice_type/src/main.rs

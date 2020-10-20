@@ -43,5 +43,6 @@ or install it using Homebrew:
 - [x] Hello World Cargo;
 - [x] Guessing Game;
 - [x] Common Programming Concepts;
+- [x] Understanding Ownership;
 
 by João Santos :ghost: 

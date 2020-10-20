@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 4/ownership/target/debug/ownership: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 4/ownership/src/main.rs

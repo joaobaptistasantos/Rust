@@ -1,0 +1,1 @@
+/Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 4/ownership_functions/target/debug/ownership_functions: /Users/joaosantos/Development/Rust/The\ Rust\ Programming\ Language/Chapter\ 4/ownership_functions/src/main.rs
